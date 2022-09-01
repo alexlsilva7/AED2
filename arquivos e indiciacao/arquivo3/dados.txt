@@ -1,0 +1,3 @@
+harry potter|eu|2004|1
+teste1|we|2000|2
+Senhor dos PCs|Bill Gates|1999|3
