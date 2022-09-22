@@ -1,0 +1,19 @@
+8 10
+R
+S
+T
+U
+V
+W
+X
+Y
+VR
+RS
+SW
+WT
+WX
+TX
+TU
+XU
+XY
+YU
